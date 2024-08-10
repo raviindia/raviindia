@@ -21,7 +21,7 @@
 <strong>Get in touch with me 🤝🤝 ....</strong>
 
 <p align="center">
-<a title=Github target=_blank href= "https://github.com/raviindia/">
+<a title=Github target="_blank" href= "https://github.com/raviindia/">
     <img src="https://img.icons8.com/?size=100&id=12598&format=png&color=FF0000"/>
   </a>
   <a title=LinkedIn target="_blank" href= "https://www.linkedin.com/in/raviprakashtripathi/">
