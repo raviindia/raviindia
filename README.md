@@ -21,22 +21,22 @@
 <strong>Get in touch with me 🤝🤝 ....</strong>
 
 <p align="center">
-<a title=Github href= "https://github.com/dailylifeassysadmin/">
+<a title=Github target="_blank" href= "https://github.com/raviindia/">
     <img src="https://img.icons8.com/?size=100&id=12598&format=png&color=FF0000"/>
   </a>
-  <a title=LinkedIn href= "https://www.linkedin.com/in/raviprakashtripathi/">
+  <a title=LinkedIn target="_blank" href= "https://www.linkedin.com/in/raviprakashtripathi/">
     <img src="https://img.icons8.com/?size=100&id=447&format=png&color=FF0000"/>
   </a>
   <!--- <a href= "https://twitter.com/tallguyjenks">
     <img src="https://img.icons8.com/material-outlined/30/689d6a/twitter.png"/>
   </a> --->
-  <a title=Website href= "https://www.dailylifeassysadmin.in">
+  <a title=Website target="_blank" href= "https://www.dailylifeassysadmin.in">
     <img src="https://img.icons8.com/?size=100&id=1349&format=png&color=FF0000"/>
   </a>
-  <a title=Blog href="https://dailylifeassysadmin.blogspot.com/">
+  <a title=Blog target="_blank" href="https://dailylifeassysadmin.blogspot.com/">
     <img src="https://img.icons8.com/?size=100&id=26072&format=png&color=FF0000"/>
   </a>
-  <a title=Resume href="https://www.dailylifeassysadmin.in/aboutme">
+  <a title=Resume target="_blank" href="https://www.dailylifeassysadmin.in/aboutme">
     <img alt="Resume" src="https://img.icons8.com/?size=100&id=23877&format=png&color=FF0000"/>
   </a>
 
